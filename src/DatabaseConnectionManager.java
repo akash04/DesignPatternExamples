@@ -2,7 +2,7 @@ public class DatabaseConnectionManager {
 
     //volitile - chnages will be visible to all the threads
     private static volatile DatabaseConnectionManager instance;
-
+//////////////////////////////
     private DatabaseConnectionManager() {
         // private constructor to prevent instantiation
     }
