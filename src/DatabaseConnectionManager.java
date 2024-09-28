@@ -22,5 +22,6 @@ public class DatabaseConnectionManager {
 
     public void connect() {
         System.out.println("Connecting to the database...");
+        //////////////////////////////test feature
     }
 }
